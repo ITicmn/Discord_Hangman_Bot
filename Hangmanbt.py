@@ -137,4 +137,4 @@ async def hrestart(interaction:discord.Interaction):
     if (hngs==True or hngs==False and hwin==False and hlose==False and hquit==False):
         await interaction.response.send_message(f"Game can't be restarted")
 
-bot.run("MTA5ODY3Mzg5NTM2OTg2NzI2NA.Ge8g7F.qfshWgH80Aot1tbZ1WI4nVgQcypUqfU5SVrIRY")
+bot.run("TOKEN")
